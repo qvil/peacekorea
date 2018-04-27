@@ -22,7 +22,7 @@ class App extends Component {
 
     return (
       <div style={styles.root}>
-        <img style={styles.img} src={Image1} />
+        <img style={styles.img} src={Image1} alt="20180427165016974keev.jpg" />
         <h2 style={styles.text}>
           2018-04-27 금요일 한국시간 18 시 <br />
           대한민국은 종전선언을 하고 평화국가가 되었습니다. <br />
