@@ -1,0 +1,21 @@
+{
+  "kr": {
+    "time": "2018-04-27 금요일 한국시간 18 시",
+    "declare": "대한민국은 종전선언을 하고 평화국가가 되었습니다.",
+    "relatedNews": "관련 뉴스"
+  },
+  "en": {
+    "time": "Fri, 27 April 2018, 18:00 (Korea Time, UCT+09:00 seoul)",
+    "declare":
+      "The Republic of Korea declared the end of war and became a peacuful nation.",
+    "relatedNews": "Related News"
+  },
+  "newsList": [
+    {
+      "title":
+        "연합뉴스 - 남북정상, 군사분계선에 소나무 심고 '도보다리'서 단독회담(종합)",
+      "link":
+        "http://www.yonhapnews.co.kr/bulletin/2018/04/27/0200000000AKR20180427030551001.HTML?input=1179m"
+    }
+  ]
+}
